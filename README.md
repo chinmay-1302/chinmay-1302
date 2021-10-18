@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinmay-1302
 - 👀 I’m interested in UI/UX, AppDev, WebDev, ML and AI.
-- 🌱 I’m currently learning Python and Figma.
+- 🌱 I’m currently learning JavaScript from The Odin Project and Figma.
 - 💞️ I’m looking to collaborate on Web Development Projects or anything that may be interesting really.
 
 <!---
